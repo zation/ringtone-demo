@@ -1,0 +1,44 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">=14",
+    "npm": ">=6"
+  },
+  "resolutions": {
+    "**/react": "^17.0.1",
+    "**/react-dom": "^17.0.1",
+    "**/relient": "5.1.4"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.6.2",
+    "@babel/polyfill": "^7.12.1",
+    "@tinymce/tinymce-react": "^3.12.4",
+    "antd": "^4.15.1",
+    "bignumber.js": "^9.0.1",
+    "body-parser": "^1.19.0",
+    "classnames": "^2.3.1",
+    "cookie-parser": "^1.4.5",
+    "core-js": "^3.10.1",
+    "date-fns": "^2.21.1",
+    "echarts": "^5.0.0",
+    "express": "^4.17.1",
+    "history": "^5.0.0",
+    "isomorphic-fetch": "^3.0.0",
+    "isomorphic-style-loader": "^5.1.0",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "morgan": "^1.9.1",
+    "prop-types": "^15.7.2",
+    "query-string": "^7.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "relient": "5.1.4",
+    "relient-admin": "4.2.1",
+    "tinymce": "^5.8.0",
+    "universal-router": "^9.0.1"
+  }
+}
